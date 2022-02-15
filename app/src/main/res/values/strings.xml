@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">uas_ppb</string>
+    <string name="Hymart">Hymart</string>
+    <string name="Kembali">Kembali</string>
+    <string name="makanan_minuman"><![CDATA[Makanan & Minuman]]></string>
+    <string name="rumah_dapur"><![CDATA[Rumah & Dapur]]></string>
+    <string name="ibu_anak"><![CDATA[Ibu & Anak]]></string>
+    <string name="kesehatan_kecantikan"><![CDATA[Kesehatan & Kecantikan]]></string>
+    <string name="activity_ibu_anak"><![CDATA[Activity Ibu & Anak]]></string>
+    <string name="activity_kesehatan_kecantikan"><![CDATA[Activity Kesehatan & Kecantikan]]></string>
+    <string name="activity_makanan_minuman"><![CDATA[Activity Makanan & Minuman]]></string>
+    <string name="activity_rumah_dapur"><![CDATA[Activity Rumah & Dapur]]></string>
+</resources>
